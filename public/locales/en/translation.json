@@ -1,0 +1,12 @@
+{
+    "headerTitle": "Todolist", 
+    "items": "Tasks",
+    "addnewTask": "Enter the name of the list",
+    "all": "All",
+    "active": "Active",
+    "add": "Add",
+    "completed": "Completed",
+    "clearCompleted": "Clear completed"
+}
+  
+  
